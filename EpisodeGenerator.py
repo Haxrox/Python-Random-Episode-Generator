@@ -1,6 +1,5 @@
 import random
 import ShowsData
-import webbrowser
 
 Shows = ShowsData.Data
 
